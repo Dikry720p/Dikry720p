@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Dikry/Abdul</h1>
 <h3 align="center">I'm a passionate frontend developer, robotic developer, and UI/UX designer from Indonesia.</h3>
